@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Positive Quote:“The only place where the dreams become impossible is in your own thinking.”
 - 📚 PORTFOLIO : https://swarna-portfolio.netlify.app/
-- 
+
 ![swarna-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarna-17&show_icons=true&theme=midnight-purple)
 
 
