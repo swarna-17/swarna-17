@@ -13,7 +13,7 @@
 ![swarna-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarna-17&show_icons=true&theme=midnight-purple)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarna-17&langs_count=9)](https://github.com/swarna-17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarna-17&langs_count=10)](https://github.com/swarna-17/github-readme-stats)
 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=swarna-17&count_private=true&theme=midnight-purple)
