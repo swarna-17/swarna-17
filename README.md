@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Voidevs
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with ReactJs
-- 💬 Ask me about Java and HTML
+- 💬 Ask me about Java, HTML and C
 - 📫 How to reach me: swarnashree.ganesh17@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Positive Quote:“The only place where the dreams become impossible is in your own thinking.”
