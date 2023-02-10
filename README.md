@@ -20,4 +20,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=swarna-17&theme=monokai&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy])
 
-
+[![Count](https://camo.githubusercontent.com/?username=swarna-17)
